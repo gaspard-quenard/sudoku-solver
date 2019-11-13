@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1537388072 source:/home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/main.cpp
+	<iostream>
+	"Appli.h"
+	"Board.h"
+
+1537385581 /home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/include/Board.h
+	<iostream>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Coordonnees.h"
+	"CaseTest.h"
+
+1537217076 /home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/include/Appli.h
+	<SDL2/SDL.h>
+	<iostream>
+
+1537307750 source:/home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/src/Appli.cpp
+	"Appli.h"
+	<cstdlib>
+
+1537388072 source:/home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/src/Board.cpp
+	"Board.h"
+
+1537380703 /home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/include/Coordonnees.h
+
+1537380510 source:/home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/src/Coordonnees.cpp
+	"Coordonnees.h"
+
+1537386413 /home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/include/CaseTest.h
+	<vector>
+	<iostream>
+	"Coordonnees.h"
+
+1537387594 source:/home/gaspard/Programmation/CodeBlocks/SDL/SudokuResolver/src/CaseTest.cpp
+	"CaseTest.h"
+
+1537388072 source:/home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/main.cpp
+	<iostream>
+	"Appli.h"
+	"Board.h"
+
+1537217076 /home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/include/Appli.h
+	<SDL2/SDL.h>
+	<iostream>
+
+1537385580 /home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/include/Board.h
+	<iostream>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Coordonnees.h"
+	"CaseTest.h"
+
+1537380702 /home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/include/Coordonnees.h
+
+1537386412 /home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/include/CaseTest.h
+	<vector>
+	<iostream>
+	"Coordonnees.h"
+
+1537307750 source:/home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/src/Appli.cpp
+	"Appli.h"
+	<cstdlib>
+
+1537387594 source:/home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/src/CaseTest.cpp
+	"CaseTest.h"
+
+1537380510 source:/home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/src/Coordonnees.cpp
+	"Coordonnees.h"
+
+1546200288 source:/home/gaspard/Programming/CodeBlocks/SDL/SudokuResolver/src/Board.cpp
+	"Board.h"
+
+1537388072 source:/home/gaspard/Programming/Mon git hub/sudoku-solver/main.cpp
+	<iostream>
+	"Appli.h"
+	"Board.h"
+
+1537217076 /home/gaspard/Programming/Mon git hub/sudoku-solver/include/Appli.h
+	<SDL2/SDL.h>
+	<iostream>
+
+1537385580 /home/gaspard/Programming/Mon git hub/sudoku-solver/include/Board.h
+	<iostream>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Coordonnees.h"
+	"CaseTest.h"
+
+1537380702 /home/gaspard/Programming/Mon git hub/sudoku-solver/include/Coordonnees.h
+
+1537386412 /home/gaspard/Programming/Mon git hub/sudoku-solver/include/CaseTest.h
+	<vector>
+	<iostream>
+	"Coordonnees.h"
+
+1537307750 source:/home/gaspard/Programming/Mon git hub/sudoku-solver/src/Appli.cpp
+	"Appli.h"
+	<cstdlib>
+
+1546200288 source:/home/gaspard/Programming/Mon git hub/sudoku-solver/src/Board.cpp
+	"Board.h"
+
+1537387594 source:/home/gaspard/Programming/Mon git hub/sudoku-solver/src/CaseTest.cpp
+	"CaseTest.h"
+
+1537380510 source:/home/gaspard/Programming/Mon git hub/sudoku-solver/src/Coordonnees.cpp
+	"Coordonnees.h"
+
